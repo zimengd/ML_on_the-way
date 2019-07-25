@@ -5,7 +5,7 @@ machine learning from scratch
 learn from Kaggle (https://www.kaggle.com/)
 ————————————————————————————————————————————————
 
-# 01 How Models Work
+# 00 How Models Work
 https://www.kaggle.com/dansbecker/how-models-work
 use learning model to predict housing price
 
